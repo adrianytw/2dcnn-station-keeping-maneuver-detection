@@ -1,0 +1,6 @@
+ipykernel
+spacetrack
+python-dotenv
+numpy
+pandas
+tables
